@@ -6,7 +6,7 @@
 # but you cannot do the same trick to get the first cell, since going
 # further out would just initiate a new memory cell.
 #
-# 2001 (C) Øyvind Grønnesby <oyving@pvv.ntnu.no>
+# 2001 (C) Ã˜yvind GrÃ¸nnesby <oyving@pvv.ntnu.no>
 #
 # 2003-02-06: Thanks to John Farrell for spotting a bug!
 
